@@ -1,0 +1,12 @@
+{
+  "name": "postpilot",
+  "version": "1.0.0",
+  "description": "Write once. Publish everywhere",
+  "license": "ISC",
+  "author": "Dinesh as shawzter",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
